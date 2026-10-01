@@ -10,13 +10,15 @@ Our public direction is simple: **conversation first, technology second** — ma
 
 ### [Vozarra™](https://vozarra.com)
 
-Vozarra™ is our voice-first AI Solutions Architect. A business explains what it needs in ordinary language; Vozarra™ discovers the requirements, structures them, creates an initial solution blueprint and supports the path toward implementation.
+Vozarra™ is our voice-first AI Solutions Architect. A business explains what it needs in ordinary language; the current MVP turns that conversation into confirmed requirements, an inspectable AI architecture and a simulated conversational runtime.
 
-**Business Layer:** Discover → Architect → Build → Test → Deploy → Monitor → Improve.
+**Current MVP:** Discover → Requirements → Architect → Simulated Runtime.
+
+**Longer-term Business Layer vision:** Discover → Architect → Build → Test → Deploy → Monitor → Improve.
 
 ## Product portfolio
 
-- **Vozarra™** — flagship voice-first AI executive and solutions architecture platform.
+- **Vozarra™** — flagship voice-first AI Solutions Architect; the current MVP covers discovery, structured requirements, architecture and simulated runtime.
 - **Epic Edge™** — enterprise AI implementation and signal-backed go-to-market capability; currently being rebuilt.
 - **Legacy Voice™** — AI-powered preservation of stories, memories and voice across generations; currently being rebuilt.
 
