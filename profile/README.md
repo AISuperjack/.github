@@ -1,57 +1,55 @@
-# 👋 Welcome to AI Superjack Ltd on GitHub!
+# AI Superjack
 
-**INNOVATE. ELEVATE. SUCCEED.**
+**Applied AI Think Tank & Product House**
 
-Welcome to the official GitHub repository for **AI Superjack Ltd**—your partner in AI-powered solutions and cutting-edge digital innovation. At AI Superjack, we combine the power of artificial intelligence with human-centric strategies to deliver transformative solutions that inspire confidence and drive success in a tech-driven world.
+AI Superjack designs and builds practical AI systems around real business objectives. We focus on voice-first AI, agent architecture, orchestration, grounded knowledge, tool use, evaluation, PromptOps and production-ready software delivery.
 
----
+Our public direction is simple: **conversation first, technology second** — make powerful AI understandable, useful and capable.
 
-## 🚀 About Us
+## Flagship product
 
-AI Superjack Ltd is a UK-based AI digital marketing and development company focused on delivering innovative, scalable, and impactful solutions for businesses of all sizes. From AI programming and integration to digital marketing strategies, web development, and beyond, we empower our clients to achieve their goals and stand out in the digital landscape.
+### [Vozarra™](https://vozarra.com)
 
----
+Vozarra™ is our voice-first AI Solutions Architect. A business explains what it needs in ordinary language; Vozarra™ discovers the requirements, structures them, creates an initial solution blueprint and supports the path toward implementation.
 
-## 💡 What We Offer
+**Business Layer:** Discover → Architect → Build → Test → Deploy → Monitor → Improve.
 
-### **AI-Powered Innovation**
-- Advanced AI programming and custom integration.
-- Intelligent chatbot solutions powered by our proprietary AI engine, **AI Daddy**.
+## Product portfolio
 
-### **Digital Transformation**
-- Comprehensive digital marketing strategies.
-- Responsive web applications and robust API development.
+- **Vozarra™** — flagship voice-first AI executive and solutions architecture platform.
+- **Epic Edge™** — enterprise AI implementation and signal-backed go-to-market capability; currently being rebuilt.
+- **Legacy Voice™** — AI-powered preservation of stories, memories and voice across generations; currently being rebuilt.
 
-### **Creative Excellence**
-- Engaging content creation across written, visual, video, and audio formats.
-- Bespoke solutions tailored for high-end brands.
+## What we build
 
-### **Data-Driven Insights**
-- Actionable traffic analysis and SEO strategies.
-- Analytics and reporting to optimize performance and decision-making.
+- conversational and voice AI systems
+- agent and multi-agent architectures
+- prompt engineering, PromptOps and evaluation
+- RAG and citation-backed knowledge systems
+- MCP-ready tool and integration layers
+- multi-provider LLM abstractions
+- serverless and cloud-native AI applications
+- production testing, observability and guardrails
+- full-stack platforms across Python, .NET and modern web frameworks
 
----
+## Engineering principles
 
-## 📂 Public Repositories
+**Business first.** Start with the objective, workflow, users and constraints.
 
-We use this space to share:
-- Open-source projects.
-- Libraries and tools for AI and digital marketing development.
-- Examples and templates to empower the developer community.
+**Production matters.** A convincing demo is not the finish line.
 
----
+**Ground intelligence.** Use the right knowledge, tools and evidence rather than unsupported generation.
 
-## 🤝 Join Us
+**Design for action.** AI should do more than answer when the business case requires execution.
 
-AI Superjack Ltd is committed to fostering collaboration and innovation. Whether you’re a developer, a business owner, or a fellow innovator, we’d love to connect!
+**Keep it understandable.** Technical depth should not make the user experience complicated.
 
-📧 **Contact us:** [business@aisuperjack.com](mailto:business@aisuperjack.com)  
-🌐 **Learn more:** [https://aisuperjack.com](https://aisuperjack.com)  
+## Links
 
-Follow us for updates, contributions, and the latest advancements in AI and digital development!
+- [AI Superjack](https://aisuperjack.com)
+- [Vozarra™](https://vozarra.com)
+- [Epic Edge™](https://aiepicedge.com)
+- [Legacy Voice™](https://legacyvoice.ai)
+- [Contact](mailto:business@aisuperjack.com)
 
----
-
-## ⭐ Let's Innovate Together
-
-Our mission is to simplify complex concepts, empower businesses, and build solutions that elevate everyone to new heights. Explore our repositories, contribute, and join us in shaping the future of AI-powered solutions!
+© 2026 AI Superjack Ltd.
